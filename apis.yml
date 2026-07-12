@@ -10,4 +10,6 @@ specificationVersion: '0.19'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/mihomes
+  - url: https://www.mihomes.com/blog
+    type: Blog
 apis: []
